@@ -6,6 +6,9 @@ This repo is created to combine useful html, css, and javascript codes. All proj
 |:-:| ---------------------------------------------------- | ------------------------------------------------------------- |
 |1| [Explore City Slider](https://github.com/abdulazizcan/Handy-JS-CSS-HTML-Projects/tree/main/explore-city-slider) | [Demo](http://abdulazizcan.com/projelerim/explore-city-slider/)               |
 
+|2| [Twitter Clone with React JS](https://github.com/abdulazizcan/Basic-and-Handy-JS-CSS-HTML-Projects/tree/main/Twitter%20Clone%20with%20React%20JS) | [unavailable]
+
+
 ## Author 
 
 - Abdülaziz Can (abdulazizcan)
