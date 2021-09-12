@@ -1,4 +1,4 @@
-# twitter-clone-reactjs
+# Twitter Clone with Reactjs
 
 Hello, welcome to my first react project. 
 to use this application, follow these steps.
