@@ -1,8 +1,7 @@
 # Twitter Clone with Reactjs
 
 Hello, welcome to my first react project. 
-to use this application, follow these steps.
-
+to use this application, follow these steps. [Click here](https://youtube.com/playlist?list=PLDq0IUpYONvTVIah8Ji48ZmAei5rSgPYJ) for the course I follow when making this app
 ## Installation
 
  ```bash   
