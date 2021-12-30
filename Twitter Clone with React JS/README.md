@@ -1,7 +1,7 @@
 # Twitter Clone with Reactjs
 
 Hello, welcome to my first react project. 
-to use this application, follow these steps. [Click here](https://youtube.com/playlist?list=PLDq0IUpYONvTVIah8Ji48ZmAei5rSgPYJ) for the course I follow when making this app
+to use this application, follow these steps. 
 ## Installation
 
  ```bash   
@@ -21,3 +21,5 @@ I recommend reading firebase docs to host and use realtime database for this pro
 - React JS
 - Tailwind CSS
 - Firebase Firestore
+
+P.S. [Click here](https://youtube.com/playlist?list=PLDq0IUpYONvTVIah8Ji48ZmAei5rSgPYJ) for the course I follow when making this app
